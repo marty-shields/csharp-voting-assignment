@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+<Constituency name="Duhram">
+  <Candidate party="Conservative">
+    <Firstname>Amy</Firstname>
+    <Lastname>Mcdowell</Lastname>
+    <Votes>200</Votes>
+  </Candidate>
+  <Candidate party="Green">
+    <Firstname>Danielle</Firstname>
+    <Lastname>Brady</Lastname>
+    <Votes>190</Votes>
+  </Candidate>
+  <Candidate party="Labour">
+    <Firstname>Tom</Firstname>
+    <Lastname>Smith</Lastname>
+    <Votes>100</Votes>
+  </Candidate>
+  <Candidate party="Lib Dem">
+    <Firstname>Karren</Firstname>
+    <Lastname>Lattimer</Lastname>
+    <Votes>110</Votes>
+  </Candidate>
+</Constituency>
+</Election>

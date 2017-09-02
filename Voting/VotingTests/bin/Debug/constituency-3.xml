@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+<Constituency name="South Tyneside">
+  <Candidate party="Conservative">
+    <Firstname>Helen</Firstname>
+    <Lastname>Bowmer</Lastname>
+    <Votes>210</Votes>
+  </Candidate>
+  <Candidate party="Green">
+    <Firstname>Lauren</Firstname>
+    <Lastname>Story</Lastname>
+    <Votes>50</Votes>
+  </Candidate>
+  <Candidate party="Sinn Fein">
+    <Firstname>Michael</Firstname>
+    <Lastname>Ingle</Lastname>
+    <Votes>120</Votes>
+  </Candidate>
+  <Candidate party="Plaid Cymru">
+    <Firstname>Oscar</Firstname>
+    <Lastname>Montgomary</Lastname>
+    <Votes>180</Votes>
+  </Candidate>
+  <Candidate party="Lib Dem">
+    <Firstname>Ryan</Firstname>
+    <Lastname>Turner</Lastname>
+    <Votes>120</Votes>
+  </Candidate>
+</Constituency>
+</Election>

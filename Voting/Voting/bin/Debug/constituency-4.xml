@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+<Constituency name="North Tyneside">
+  <Candidate party="Plaid Cymru">
+    <Firstname>Billy</Firstname>
+    <Lastname>Whitman</Lastname>
+    <Votes>120</Votes>
+  </Candidate>
+  <Candidate party="Green">
+    <Firstname>Jeff</Firstname>
+    <Lastname>Slaughter</Lastname>
+    <Votes>100</Votes>
+  </Candidate>
+  <Candidate party="Labour">
+    <Firstname>Russell</Firstname>
+    <Lastname>Jennings</Lastname>
+    <Votes>280</Votes>
+  </Candidate>
+  <Candidate party="Lib Dem">
+    <Firstname>Ray</Firstname>
+    <Lastname>Mosley</Lastname>
+    <Votes>50</Votes>
+  </Candidate>
+</Constituency>
+</Election>

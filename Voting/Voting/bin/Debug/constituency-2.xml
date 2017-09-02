@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+<Constituency name="Newcastle">
+  <Candidate party="Scottish National Party">
+    <Firstname>Fred</Firstname>
+    <Lastname>Rufus</Lastname>
+    <Votes>80</Votes>
+  </Candidate>
+  <Candidate party="Green">
+    <Firstname>Laura</Firstname>
+    <Lastname>Dillon</Lastname>
+    <Votes>180</Votes>
+  </Candidate>
+  <Candidate party="Labour">
+    <Firstname>Paul</Firstname>
+    <Lastname>Wright</Lastname>
+    <Votes>180</Votes>
+  </Candidate>
+  <Candidate party="Sinn Fein">
+    <Firstname>Rodger</Firstname>
+    <Lastname>Moore</Lastname>
+    <Votes>150</Votes>
+  </Candidate>
+  <Candidate party="Plaid Cymru">
+    <Firstname>Rachael</Firstname>
+    <Lastname>Stevens</Lastname>
+    <Votes>250</Votes>
+  </Candidate>
+</Constituency>
+</Election>

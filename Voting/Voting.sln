@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting", "Voting\Voting.csproj", "{30388685-8400-4DE2-B8FA-5890042E3677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingTests", "VotingTests\VotingTests.csproj", "{94775B13-CD88-4362-803C-392B92CB3A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30388685-8400-4DE2-B8FA-5890042E3677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30388685-8400-4DE2-B8FA-5890042E3677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30388685-8400-4DE2-B8FA-5890042E3677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30388685-8400-4DE2-B8FA-5890042E3677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94775B13-CD88-4362-803C-392B92CB3A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94775B13-CD88-4362-803C-392B92CB3A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94775B13-CD88-4362-803C-392B92CB3A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94775B13-CD88-4362-803C-392B92CB3A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
